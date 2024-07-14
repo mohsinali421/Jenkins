@@ -33,6 +33,7 @@ It is has Jenkins Pipeline and Readme File and other discussion about Jenkins
 ### Start/Stop Jenkin
 - sudo systemctl stop jenkins
 - sudo systemctl start jenkins
+- sudo systemctl status jenkins
 
 ## Jenkins job
 - simple shell commands
