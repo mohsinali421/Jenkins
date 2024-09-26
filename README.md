@@ -16,10 +16,12 @@ It is has Jenkins Pipeline and Readme File and other discussion about Jenkins
 - Follow this commands for ubuntu [https://www.jenkins.io/doc/book/installing/linux/#debianubuntu]
 
 ## Start Jenkins
+- open ubuntu terminal
 - Check Status - sudo systemctl status jenkins
 - Start - sudo systemctl enable jenkins
 - By default port : 8080
 - Jenkins running - [http://localhost:8080/]
+- username:password - mohsin
 - get the key from path and unlock jenkin - sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 - Install required plugins and create admin login
 
